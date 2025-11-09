@@ -4,6 +4,9 @@
 
 - ⭐️⭐️⭐️⭐️⭐️ [Shadcn](https://ui.shadcn.com/)
 - ⭐️⭐️⭐️⭐️⭐️ [React Bits](https://reactbits.dev/)
+- ⭐️⭐️⭐️⭐️⭐️ [AnimateUI](https://animate-ui.com/)
+- ⭐️⭐️⭐️⭐️⭐️ [SmoothUI](https://smoothui.dev/)
+- ⭐️⭐️⭐️⭐️⭐️ [Motion Primitives](https://motion-primitives.com/)
 - ⭐️⭐️⭐️⭐️ [Aceternity UI](https://ui.aceternity.com/)
 - ⭐️⭐️⭐️⭐️ [Skiper UI](https://skiper-ui.com/)
 - ⭐️⭐️⭐️⭐️ [PaceUI](https://www.paceui.com/)
