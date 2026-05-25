@@ -19,6 +19,9 @@
 - ⭐️⭐️⭐️⭐️⭐️ [Tweak Shadcn Themes](https://tweakcn.com/)
 - ⭐️⭐️⭐️⭐️⭐️ [v0](https://v0.dev/)
 - ⭐️⭐️⭐️⭐️ [SuperDesign](https://www.superdesign.dev/)
+- ⭐️⭐️⭐️⭐️ [Floating UI](https://floating-ui.com/)
+- ⭐️⭐️⭐️⭐️ [Embla Carousel](https://www.embla-carousel.com/)
+- ⭐️⭐️⭐️⭐️ [Lexical](https://lexical.dev/)
 
 
 ## Icons
