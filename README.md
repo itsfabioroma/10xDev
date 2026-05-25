@@ -7,6 +7,7 @@
 - ⭐️⭐️⭐️⭐️⭐️ [AnimateUI](https://animate-ui.com/)
 - ⭐️⭐️⭐️⭐️⭐️ [SmoothUI](https://smoothui.dev/)
 - ⭐️⭐️⭐️⭐️⭐️ [Motion Primitives](https://motion-primitives.com/)
+- ⭐️⭐️⭐️⭐️⭐️ [Radix UI](https://www.radix-ui.com/)
 - ⭐️⭐️⭐️⭐️ [Aceternity UI](https://ui.aceternity.com/)
 - ⭐️⭐️⭐️⭐️ [Skiper UI](https://skiper-ui.com/)
 - ⭐️⭐️⭐️⭐️ [PaceUI](https://www.paceui.com/)
